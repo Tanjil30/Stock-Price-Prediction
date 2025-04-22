@@ -8,5 +8,3 @@ Project Steps:
 3. Build a backtesting engine to more accurately measure accuracy
 4. Improve the accuracy of the model
 
-File Overview:
-Stock Price Prediction Model.ipynb
